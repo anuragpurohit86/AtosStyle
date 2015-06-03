@@ -1,5 +1,7 @@
 
-body {
-    background-color: #404040;
+#jenkins-home-link {
+    background: transparent url("https://wac.das.myatos.net/portal/img/logo_atos.png") no-repeat scroll 3px 0;
+    height: 40px;
+    position: absolute;
 }
 
