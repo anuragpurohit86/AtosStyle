@@ -1,7 +1,9 @@
 
-#header {
+#header, #footer-container {
     background-color: #0066a1;
 }
+
+
 
 #jenkins-home-link #headerTop {
     padding: 9px 0 0 13px;
