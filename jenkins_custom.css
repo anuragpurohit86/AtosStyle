@@ -3,6 +3,10 @@
     background-color: #0066a1;
 }
 
+#footer-container a:link, #footer-container {
+    color: white;
+}
+
 
 
 #jenkins-home-link #headerTop {
