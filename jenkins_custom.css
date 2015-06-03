@@ -1,14 +1,31 @@
 
-#jenkins-home-link {
-    background: transparent url("https://wac.das.myatos.net/portal/img/logo_atos.png") no-repeat scroll 172px 4px;
-    border-right: 1px solid #ffffff;
-    float: left;
-    height: 40px;
-    position: relative;
-    width: 271px;
-}
+
 
 #headerTop {
     padding: 9px 0 0 13px;
+}
+
+.logo {
+    background: transparent url("assets/images/logo_atos.png") no-repeat scroll 3px 0;
+    border-right: 1px solid #ffffff;
+    float: left;
+    height: 35px;
+    position: relative;
+    width: 99px;
+}
+
+.AtosSpan {
+    color: #0066a1;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+
+.devops {
+    background: transparent url("assets/images/devops.png") no-repeat scroll 3px 0 / 320px 36px;
+    border-right: 1px solid #ffffff;
+    height: 35px;
+    position: relative;
+    width: 243px;
 }
 
