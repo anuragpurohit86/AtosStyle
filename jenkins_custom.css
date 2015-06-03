@@ -1,11 +1,11 @@
 
 
 
-jenkins-home-link #headerTop {
+#jenkins-home-link #headerTop {
     padding: 9px 0 0 13px;
 }
 
-jenkins-home-link .logo {
+#jenkins-home-link .logo {
     background: transparent url("https://wac.das.myatos.net/portal/img/logo_atos.png") no-repeat scroll 3px 0;
     border-right: 1px solid #ffffff;
     float: left;
@@ -14,14 +14,14 @@ jenkins-home-link .logo {
     width: 99px;
 }
 
-jenkins-home-link .AtosSpan {
+#jenkins-home-link .AtosSpan {
     color: #0066a1;
     height: 100%;
     position: absolute;
     width: 100%;
 }
 
-jenkins-home-link .devops {
+#jenkins-home-link .devops {
     background: transparent url("assets/images/devops.png") no-repeat scroll 3px 0 / 320px 36px;
     border-right: 1px solid #ffffff;
     height: 35px;
