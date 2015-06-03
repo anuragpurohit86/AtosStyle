@@ -11,7 +11,7 @@
 }
 
 #jenkins-home-link .logo {
-    background: transparent url("https://wac.das.myatos.net/portal/img/logo_atos.png") no-repeat scroll 3px 0 / 85px 21px
+    background: transparent url("https://wac.das.myatos.net/portal/img/logo_atos.png") no-repeat scroll 3px 0 / 85px 21px;
     border-right: 1px solid #ffffff;
     float: left;
     height: 35px;
