@@ -15,7 +15,7 @@
 }
 
 #jenkins-home-link .logo {
-    background: transparent url("https://wac.das.myatos.net/portal/img/logo_atos.png") no-repeat scroll 3px 0 / 85px 21px;
+    background: transparent url("http://anuragpurohit86.github.io/AtosStyle/logo_atos.png") no-repeat scroll 3px 0 / 85px 21px;
     border-right: 1px solid #ffffff;
     float: left;
     height: 26px;
@@ -31,7 +31,7 @@
 }
 
 #jenkins-home-link .devops {
-    background: transparent url("http://glu26xod9g-flywheel.netdna-ssl.com/wp-content/uploads/2014/03/BjBm-qZIUAEqQ_u.png-large.png") no-repeat scroll -98px 0 / 320px 28px;
+    background: transparent url("http://anuragpurohit86.github.io/AtosStyle/devops.png") no-repeat scroll -98px 0 / 320px 28px;
     border-right: 1px solid #ffffff;
     height: 26px;
     position: relative;
