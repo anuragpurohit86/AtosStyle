@@ -4,4 +4,5 @@ jQuery(document).ready(function() {
 				<div class="logo"><span class="AtosSpan"></span></div>
 				<div class="devops"><span class="AtosSpan"></span></div>  
 			</div>" );
+   console.log( "ready2!" );
 });
