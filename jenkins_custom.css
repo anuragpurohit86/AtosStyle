@@ -75,3 +75,26 @@ div.pipeline-main {
     background-color: #f6faf2;
 }
 
+#side-panel {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #f5f5f5 !important;
+    border-color: #ccc;
+    border-image: none;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    box-shadow: 0 1px 0 #e7f0f8;
+    height: 100% !important;
+    min-height: 800px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+#side-panel, #main-panel {
+    margin: 0;
+    padding: 0;
+}
+#side-panel {
+    z-index: 1;
+}
