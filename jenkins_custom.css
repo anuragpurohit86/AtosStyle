@@ -43,7 +43,7 @@ table.bigtable {
     border-spacing: 2px;
 }
 
-table.stripped-even tr:nth-child(2n), table.stripped-odd tr:nth-child(2n+1) {
+table.bigtable tr:nth-child(2n), table.bigtable tr:nth-child(2n+1) {
     background-color: #e9e8e8;
 }
 
