@@ -62,3 +62,7 @@ table.bigtable tr.header, table.bigtable tr.header th {
     background-color: #b3d7ef;
 }
 
+.tabBar [type="radio"]:checked ~ a {
+    background-color: #007bc7;
+}
+
