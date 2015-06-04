@@ -43,7 +43,7 @@ table.bigtable {
     border-spacing: 2px;
 }
 table.bigtable tr {
-    background: #fbfbfb;
+    background-color: #e9e8e8;
 }
 
 .pane-frame, #tasks {
@@ -51,4 +51,8 @@ table.bigtable tr {
 }
 .pane-header {
      background-color:#b2d7ee;
+}
+
+table.bigtable tr.header {
+    background-color: #b3d7ef;
 }
