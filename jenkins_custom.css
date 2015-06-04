@@ -45,3 +45,10 @@ table.bigtable {
 table.bigtable tr {
     background: #fbfbfb;
 }
+
+.pane-frame {
+    border: 1px solid #b2d7ee;
+}
+.pane-header {
+    #b2d7ee;
+}
