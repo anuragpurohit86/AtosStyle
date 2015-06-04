@@ -66,3 +66,6 @@ table.bigtable tr.header, table.bigtable tr.header th {
     background-color: #007bc7;
 }
 
+div.pipeline-main {
+    border-width: 1px !important;
+}
