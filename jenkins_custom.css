@@ -42,3 +42,6 @@ table.bigtable {
     border-collapse: separate;
     border-spacing: 2px;
 }
+table.bigtable tr {
+    background: #fbfbfb;
+}
