@@ -46,7 +46,7 @@ table.bigtable tr {
     background: #fbfbfb;
 }
 
-.pane-frame {
+.pane-frame, #tasks {
     border: 1px solid #b2d7ee;
 }
 .pane-header {
