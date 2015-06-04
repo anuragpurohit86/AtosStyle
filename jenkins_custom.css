@@ -67,5 +67,8 @@ table.bigtable tr.header, table.bigtable tr.header th {
 }
 
 div.pipeline-main {
-    border-width: 1px !important;
+    border-width: 1px 1px 1px 1px  !important;
+    border-style: solid solid solid  solid  !important;
 }
+
+
