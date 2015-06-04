@@ -47,6 +47,9 @@ table.bigtable tr:nth-child(2n), table.bigtable tr:nth-child(2n+1) {
     background-color: #e9e8e8;
 }
 
+table.bigtable tr.hover {
+    background-color: #f5f5f5;
+}
 
 .pane-frame, #tasks {
     border: 1px solid #b2d7ee;
