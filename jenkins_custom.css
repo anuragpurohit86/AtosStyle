@@ -71,8 +71,9 @@ div.pipeline-main {
     border-style: solid solid solid  solid  !important;
 }
 
-#breadcrumbBar, #footer-container, .top-sticker-inner {
-    background-color: #f6faf2;
+.top-sticker-inner, #footer-container {
+    background-color: #f5f5f5;
+    padding: 12px 0;
 }
 
 #side-panel {
