@@ -42,9 +42,11 @@ table.bigtable {
     border-collapse: separate;
     border-spacing: 2px;
 }
-table.bigtable tr {
+
+table.stripped-even tr:nth-child(2n), table.stripped-odd tr:nth-child(2n+1) {
     background-color: #e9e8e8;
 }
+
 
 .pane-frame, #tasks {
     border: 1px solid #b2d7ee;
