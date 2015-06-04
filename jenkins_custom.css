@@ -38,3 +38,7 @@
     width: 142px;
 }
 
+table.bigtable {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
