@@ -53,7 +53,7 @@ table.bigtable tr {
      background-color:#b2d7ee;
 }
 
-table.bigtable tr.header {
+table.bigtable tr.header, table.bigtable tr.header th {
     background-color: #b3d7ef;
 }
 
